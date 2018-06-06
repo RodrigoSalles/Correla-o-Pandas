@@ -1,4 +1,4 @@
-# Correla-o-Pandas
+# Correlação + Pandas
 
 O que é correlação? O que são índices de correlação? Como interpretá-los? 
 Como utilizar o Pandas do Python para calcular a correlação? 
